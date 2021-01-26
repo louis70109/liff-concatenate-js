@@ -6,7 +6,7 @@ This is a template for LIFF concatenate mode by nodejs.
 
 # Environment
 
-- LINE LIFF v2.3 concat mode
+- LINE LIFF v2.7 concatenate mode
 - Express / nodejs v12.18
 
 # Heroku
